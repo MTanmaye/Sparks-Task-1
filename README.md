@@ -1,1 +1,1 @@
-# Sparks-Task-1
+create a simple dynamic website which has the following specifications.For 10 customers create a dummy database.Customer table will have basic field like name,email,ect.Transfer table will record all transfers happened.home>page>view all customers>select one customer>transfer money>select costomer to transfer to>view all customer No login page.No user creation.Only trabnnsfer money between multiple users.Host the website at github.io.check the code in github
